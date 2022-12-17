@@ -2,8 +2,9 @@
 
 ### Eu sou Ingrid Lima 	:raising_hand_woman:
 
-Recentemente...Migrei para área de tecnologia e atualmente estou desenvolvendo minhas Hard Skills através de pesquisas e elaboração de projetos.
-Espero trocar boas experiências por aqui!
+Olá, Bem vindo (a) ao meu perfil! recentemente retomei com os estudos no mundo da programação e me apaixonei pelo Front-end!
+
+Atualmente estudando HTML5, CSS3 e JavaScript.
 
 <div>
 Foco em :
