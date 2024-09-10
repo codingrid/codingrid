@@ -2,9 +2,7 @@
 
 ### Eu sou Ingrid Lima !
 
-Olá, Bem vindo (a) ao meu perfil! recentemente retomei com os estudos no mundo da programação e me apaixonei pelo Front-end!
 
-Atualmente estudando HTML5, CSS3 e JavaScript.
 
 <div>
 Foco em :
