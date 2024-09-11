@@ -1,4 +1,6 @@
-🌸 Hello! I'm Ingrid 🌸
+🌸 Hello! 🌸
+
+
 Welcome to my GitHub repository! I'm Ingrid, a passionate student currently learning to become a Software Developer. 
 Here you'll find some of the projects I've worked on during my classes, and many of them reflect my interest in Frontend Development 🌈.
 
