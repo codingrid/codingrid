@@ -1,20 +1,23 @@
-🌸 Hello! 🌸
+🌸 Oi, eu sou a Ingrid! Bem-vindo(a) ao meu cantinho no GitHub. 🌸
 
+Sou desenvolvedora web focada em Frontend, construindo interfaces funcionais e agradáveis, sempre buscando equilíbrio entre design e usabilidade. Aqui você vai encontrar projetos que mostram meu jeito prático de trabalhar com HTML, CSS e JavaScript, além do que estou aprendendo e experimentando. 💻✨
 
-Welcome to my GitHub repository! I'm Ingrid, a passionate student currently learning to become a Software Developer. 
-Here you'll find some of the projects I've worked on during my classes, and many of them reflect my interest in Frontend Development 🌈.
+Sobre mim
+🚀 Desenvolvedora web em constante evolução, sempre testando novas ideias e ferramentas.
 
-💻 About Me
-🎓 Student: I'm learning and practicing various software development skills.
-💖 Passionate about Frontend: I love working on user interfaces and making the web more beautiful and accessible.
-🚀 Always Learning: I’m constantly exploring new technologies, frameworks, and best practices.
-🌟 Projects
-In this repository, you’ll find a variety of projects I've worked on as part of my learning journey. These include:
+🎯 Gosto de códigos limpos, layouts responsivos e soluções que fazem sentido para quem usa.
 
-📱 Responsive web designs
-🖥️ Projects focused on HTML, CSS, and JavaScript
-🌱 Let's Grow Together!
-Feel free to explore my projects, leave feedback, and connect with me. I'm always open to learning more from the community and collaborating on exciting new projects!
+🤝 Acredito que aprender na prática e compartilhar conhecimento são o que realmente importam.
+
+O que tem aqui?
+📂 Projetos reais e experimentos com foco em usabilidade e estética.
+
+📱 Sites que funcionam bem em diferentes dispositivos e tamanhos de tela.
+
+🎓 Exemplos do meu percurso, desde o básico até desafios maiores.
+
+Vamos trocar uma ideia?
+💬 Se quiser conversar sobre algum projeto, sugerir melhorias ou colaborar, estou por aqui. O código pode ser meu, mas a comunidade é de todos nós.
 
 
 
