@@ -1,23 +1,28 @@
-🌸 Oi, eu sou a Ingrid! Bem-vindo(a) ao meu cantinho no GitHub. 🌸
+# Hi, I'm Ingrid
 
-Sou desenvolvedora web focada em Frontend, construindo interfaces funcionais e agradáveis, sempre buscando equilíbrio entre design e usabilidade. Aqui você vai encontrar projetos que mostram meu jeito prático de trabalhar com HTML, CSS e JavaScript, além do que estou aprendendo e experimentando. 💻✨
+Frontend Web Developer focused on building clean, responsive, and user-friendly interfaces.
 
-Sobre mim
-🚀 Desenvolvedora web em constante evolução, sempre testando novas ideias e ferramentas.
+I work with **HTML, CSS, JavaScript, and React**, creating modern web applications with a strong focus on usability, performance, and maintainable code.
 
-🎯 Gosto de códigos limpos, layouts responsivos e soluções que fazem sentido para quem usa.
+## What You'll Find Here
 
-🤝 Acredito que aprender na prática e compartilhar conhecimento são o que realmente importam.
+* Frontend projects and web applications
+* Responsive and accessible user interfaces
+* React-based applications and components
+* Experiments, learning projects, and new technologies
 
-O que tem aqui?
-📂 Projetos reais e experimentos com foco em usabilidade e estética.
+## Tech Stack
 
-📱 Sites que funcionam bem em diferentes dispositivos e tamanhos de tela.
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Git & GitHub
 
-🎓 Exemplos do meu percurso, desde o básico até desafios maiores.
+## Connect
 
-Vamos trocar uma ideia?
-💬 Se quiser conversar sobre algum projeto, sugerir melhorias ou colaborar, estou por aqui. O código pode ser meu, mas a comunidade é de todos nós.
+I'm always open to learning, collaboration, and new opportunities. Feel free to explore my projects and connect with me.
+
 
 
 
